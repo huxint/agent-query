@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Query"
+  short_description: "Repository structure analysis CLI"
+  default_prompt: "Use $agent-query to inspect a repository's structure, dependencies, symbols, and Markdown summary."
